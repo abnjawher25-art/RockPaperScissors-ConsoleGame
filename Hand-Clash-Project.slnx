@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hand-Clash-Project/Hand-Clash-Project.vcxproj" Id="dc6f8848-990a-445d-a963-cd123d0b7e10" />
+</Solution>
