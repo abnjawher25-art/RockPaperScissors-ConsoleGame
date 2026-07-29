@@ -427,3 +427,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# Visual Studio temporary & build files
+.vs/
+x64/
+x86/
+Debug/
+Release/
+
+# Executables and build outputs
+*.exe
+*.obj
+*.pdb
+*.user
